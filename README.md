@@ -1,4 +1,4 @@
-# AI-Powred Sales Enablement Security Chatbot
+# AI-Powered Sales Enablement Security Chatbot
 
 > An intelligent RAG-powered chatbot that provides instant, accurate answers to customer security questions—accelerating sales cycles and eliminating bottlenecks between sales and security teams.
 
