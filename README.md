@@ -339,22 +339,6 @@ A: Yes, with additional configuration. You can add Slack/Teams triggers to make 
 
 </div>
 
----
 
-## 📸 Screenshots
-
-### Chat Interface
-![AI Security Assistant Chat](./screenshots/chat-interface.png)
-*Natural language interface for sales teams*
-
-### Document Management
-![Document Upload Flow](./screenshots/document-upload.png)
-*Automatic indexing from Google Drive*
-
-### Example Interaction
-![Sample Question and Answer](./screenshots/chat-response.png)
-*Instant, accurate responses from your security documentation*
-
----
 
 *Ready to accelerate your sales cycle and eliminate security bottlenecks? Get started in minutes.*
