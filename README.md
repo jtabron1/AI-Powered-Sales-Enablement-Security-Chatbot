@@ -190,23 +190,6 @@ The AI Security Assistant can process and learn from:
 - ✅ Punch above your weight in enterprise deals
 - ✅ Maintain rapid growth without security bottlenecks
 
-### Metrics & ROI
-
-**Time Savings**
-- Average security question response: 2 days → 5 seconds (99.99% faster)
-- Security questionnaire completion: 12 hours → 2 hours (83% faster)
-- Security team time saved: 15-20 hours/week
-
-**Revenue Impact**
-- Sales cycle reduction: 15-30% shorter
-- Deal velocity increase: 25-40% more deals closed
-- Win rate improvement: 10-15% higher close rates
-
-**Cost Efficiency**
-- Equivalent to hiring 0.5-1 FTE security analyst
-- ROI typically achieved within first month
-- Scales infinitely without marginal cost increase
-
 ## 📊 Example Questions It Can Answer
 
 ### Compliance & Certifications
@@ -359,8 +342,6 @@ A: Yes, with additional configuration. You can add Slack/Teams triggers to make 
 - ⚡ **Response Time**: < 5 seconds
 - 💰 **Cost**: ~$20-50/month for typical usage
 - 🚀 **Setup Time**: 15-20 minutes
-- 📈 **Time Savings**: 15-20 hours/week for security teams
-- 🎯 **Question Coverage**: 80%+ of customer inquiries
 
 ---
 
