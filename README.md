@@ -19,20 +19,6 @@ The AI Security Assistant is an intelligent chatbot that instantly answers custo
 - 📝 **Questionnaire Automation**: Rapidly complete security assessments and RFPs
 - 💰 **Cost Effective**: Enable lean teams to handle enterprise security requirements
 
-## 🎬 Demo
-
-### Chat Interface
-![Chat Interface](./screenshots/chat-interface.png)
-*Sales reps ask questions in natural language and receive instant, accurate answers*
-
-### Document Knowledge Base
-![Document Upload](./screenshots/document-upload.png)
-*Automatically processes security policies, SOC 2 reports, and compliance docs*
-
-### Real-Time Answers
-![Chat Response](./screenshots/chat-response.png)
-*AI retrieves relevant information and provides polished, customer-ready responses*
-
 ## 💡 The Problem
 
 ### Traditional Security Q&A Process
